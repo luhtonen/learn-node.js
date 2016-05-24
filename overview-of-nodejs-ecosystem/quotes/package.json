@@ -1,0 +1,15 @@
+{
+  "name": "quotes",
+  "version": "0.0.1",
+  "description": "",
+  "main": "quotes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eduard Luhtonen <luhtonen@gmail.com> (http://luhtonen.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "csvrow": "^0.1.0"
+  }
+}
